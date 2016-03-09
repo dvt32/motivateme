@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MotivateMe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Version 1.0.0</string>
+    <string name="default_quote"><b><i>\"I only write when inspiration strikes. Fortunately it strikes at nine every morning.\"\n- William Faulkner</i></b></string>
+</resources>
